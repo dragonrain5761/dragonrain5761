@@ -1,3 +1,6 @@
+<div align="center">
+
+
 ## Hi, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 
 ### 🧗‍♀️ My Stacks 🧗‍♀️
@@ -13,5 +16,10 @@
 ### 🧑‍💻 My Github States 🧑‍💻
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonrain5761)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📝 My blog 📝
-[dev.space](https://lywww5761.tistory.com/)
+ <br/>
+  
+  ![Hits](https://komarev.com/ghpvc/?username=dragonrain5761&&style=flat&color=lightgrey)
+
+  <br/>
+
+</div>
